@@ -282,7 +282,7 @@ The dashboard provides:
 
 **Gheraibia Chihab Eddine**  
 AI & Data Science Student  
-École Nationale Supérieure d'Informatique — ESI Annaba  
+  
 
 [![GitHub](https://img.shields.io/badge/GitHub-chihab--gheraibia-181717?style=flat-square&logo=github)](https://github.com/chihab-gheraibia)
 
